@@ -1,0 +1,21 @@
+Patient_ID,Name,Age,Gender,State,NAMASTE_Code,ICD11_Code,Date_of_Visit,Treatment,HCO_ID
+P001,Amit Sharma,34,Male,Delhi,NAM-0001,1A00,2025-01-15,Herbal Decoction,HCO-01
+P002,Sunita Verma,28,Female,Uttar Pradesh,NAM-0002,1A01,2025-01-18,Yoga Therapy,HCO-02
+P003,Rajesh Gupta,42,Male,Haryana,NAM-0003,1A02,2025-02-05,Ayurvedic Massage,HCO-01
+P004,Neha Kapoor,30,Female,Maharashtra,NAM-0004,1A03,2025-02-07,Homeopathic Remedy,HCO-03
+P005,Arun Kumar,50,Male,Karnataka,NAM-0005,1A04,2025-02-09,Unani Detox,HCO-04
+P006,Priya Singh,36,Female,Rajasthan,NAM-0006,1A05,2025-02-12,Naturopathy Diet,HCO-05
+P007,Vikram Joshi,44,Male,Tamil Nadu,NAM-0007,1A06,2025-02-14,Marma Therapy,HCO-06
+P008,Anjali Mehta,29,Female,Kerala,NAM-0008,1A07,2025-02-15,Panchakarma,HCO-07
+P009,Suresh Yadav,55,Male,Delhi,NAM-0009,1A08,2025-02-17,Ayurvedic Tonic,HCO-01
+P010,Ritika Bansal,40,Female,Gujarat,NAM-0010,1A09,2025-02-19,Homeopathic Dilution,HCO-08
+P011,Deepak Kumar,33,Male,West Bengal,NAM-0011,1A0A,2025-02-20,Herbal Powder,HCO-02
+P012,Shalini Agarwal,27,Female,Delhi,NAM-0012,1A0B,2025-02-21,Yoga & Meditation,HCO-09
+P013,Nitin Sinha,48,Male,Madhya Pradesh,NAM-0013,1A0C,2025-02-22,Unani Tonic,HCO-04
+P014,Meena Reddy,35,Female,Telangana,NAM-0014,1A0D,2025-02-23,Naturopathy Hydrotherapy,HCO-10
+P015,Rahul Khanna,52,Male,Punjab,NAM-0015,1A0E,2025-02-24,Ayurvedic Rasayana,HCO-11
+P016,Kavita Jain,31,Female,Odisha,NAM-0016,1A0F,2025-02-25,Herbal Tea,HCO-05
+P017,Manoj Patil,38,Male,Maharashtra,NAM-0017,1A10,2025-02-26,Yoga Physiotherapy,HCO-03
+P018,Sapna Choudhary,26,Female,Haryana,NAM-0018,1A11,2025-02-27,Homeopathic Complex,HCO-06
+P019,Sanjay Malhotra,47,Male,Delhi,NAM-0019,1A12,2025-02-28,Panchakarma Detox,HCO-01
+P020,Komal Arora,41,Female,Uttar Pradesh,NAM-0020,1A13,2025-03-01,Unani Herbal Mix,HCO-02
